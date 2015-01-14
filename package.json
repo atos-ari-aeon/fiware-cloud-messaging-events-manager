@@ -1,0 +1,31 @@
+{
+    "name": "aeon-socket",
+    "version": "0.2.0",
+    "private": true,
+    "scripts": {
+        "start": "node app",
+        "install": "npm install broker-manager-0.2.0.tgz"
+    },
+    "dependencies": {
+        "express": "3.1.0",
+        "socket.io": "0.9.16",
+        "socket.io-client": "0.9.16",
+        "winston": "0.7.2",
+        "mongodb": "1.3.11",
+        "moment": "2.3.1"
+    },
+
+    "license": "AGPLv3",
+    "contributors": [{
+        "name": "Jose Gato Luis",
+        "email": "jose.gato@atos.net"
+    }, {
+        "name": "Javier Garcia Hernandez",
+        "email": "javier.garcia@atos.net"
+    }],
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    }
+}
+
