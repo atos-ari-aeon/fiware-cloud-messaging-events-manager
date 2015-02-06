@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "start": "node app",
-        "install": "npm install broker-manager-0.2.0.tgz"
+        "install": "npm install broker-manager-0.2.1.tgz"
     },
     "dependencies": {
         "express": "3.1.0",
