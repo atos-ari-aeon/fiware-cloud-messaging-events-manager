@@ -32,7 +32,7 @@ module.exports.env = 'development';
 module.exports.logLevel = 'debug'; // { silly: 0, debug: 1, verbose: 2, info: 3, warn: 4, error: 5 }
 // configuration for the external/proxy host
 
-module.exports.SSL = true;
+module.exports.SSL = false;
 module.exports.key = 'cert/key.pem'; //only if ssl enabled
 module.exports.cert = 'cert/cert.pem'; //only if ssl enabled
 module.exports.port = 7789;
