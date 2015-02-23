@@ -1,6 +1,6 @@
 {
-    "name": "aeon-socket",
-    "version": "0.2.0",
+    "name": "aeon-event-manager",
+    "version": "0.2.1",
     "private": true,
     "scripts": {
         "start": "node app",
