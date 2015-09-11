@@ -26,8 +26,8 @@
  *
  */
 
-module.exports.host = "127.0.0.1";
-module.exports.port = 27017;
+module.exports.host = process.env.MONGO_PORT_27017_TCP_ADDR;
+module.exports.port = process.env.MONGO_PORT_27017_TCP_PORT;
 module.exports.db = "AEON";
 module.exports.username = "";
 module.exports.password = "";
