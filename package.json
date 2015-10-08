@@ -1,6 +1,6 @@
 {
     "name": "aeon-event-manager",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "private": true,
     "scripts": {
         "start": "node app",
@@ -28,4 +28,3 @@
         "npm": "1.3.x"
     }
 }
-
