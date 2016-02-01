@@ -22,7 +22,7 @@ AEON platform offers a shared cloud-based message queuing framework enabling mes
 
 # Technical description
 
-Online thecnical documentation can be [find here](http://lcb.herokuapp.com/public/doc/html/apidoc/apidoc.html). If you are a developer and you are willing to beging coding with AEON, it would be better if you visit the [QuickStart guide](http://lcb.herokuapp.com/public/doc/html/apidoc/apidoc.html#quick-start).
+Online thecnical documentation can be [find here](http://130.206.116.137:3000/public/doc/html/apidoc/apidoc.html). If you are a developer and you are willing to beging coding with AEON, it would be better if you visit the [QuickStart guide](http://130.206.116.137:3000/public/doc/html/apidoc/apidoc.html#quick-start).
  
  In a nutshell, AEON should (publish/subcribe) be as easy as:
  
@@ -45,7 +45,7 @@ Online thecnical documentation can be [find here](http://lcb.herokuapp.com/publi
 
 Currently AEON has been deployed in:
 
-* iCargo European Project, implementing the called Logistic Cloud Bus to communicate the logistic entities living inside the iCargo ecosystem. You can access through this [url](http://lcb-gui.herokuapp.com). 
+* iCargo European Project, implementing the called Logistic Cloud Bus to communicate the logistic entities living inside the iCargo ecosystem. You can access through this [url](http://aeon.atosresearch.eu). 
 
 # License
 
