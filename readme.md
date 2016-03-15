@@ -1,5 +1,8 @@
 ![Logo](resources/logo/web_header_medium.png)
 
+[![License badge](https://img.shields.io/badge/license-AGPL-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
+[![Documentation badge](https://readthedocs.org/projects/fiware-orion/badge/?version=latest)](http://aeon-platform.readthedocs.org/en/latest/?badge=latest)
+
 # Description
 
 (This repository is part of the AEON platform and contains only the files related to the Events Manager)
